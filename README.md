@@ -7,8 +7,8 @@ Authors: Shilong Wang, Wenqi Ren, Peng Gao, Jiguo Yu, Jianlei Liu
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/cecret3350/DEA-Net.git
-cd DEA-Net/
+[git clone https://github.com/cecret3350/DEA-Net.git](https://github.com/wsl666/ZRID-Net.git)
+cd ZRID-Net/
 ```
 2. Create a new conda environment and install dependencies:
 ```bash
@@ -21,13 +21,9 @@ pip install -r requirements.txt
 ### Evaluation
 
 1. Make sure the file structure is consistent with the following:
-datasets/
-├──reals
-   ├── 1.png
-   ├── 2.png
-   ├── 3.png
-   ├── ...
-   
+```bash
+datasets/reals/*.png
+```
 2. Run the following script to evaluation the pre-trained model:
 
 ```bash
