@@ -7,7 +7,7 @@ Authors: Shilong Wang, Wenqi Ren, Peng Gao, Jiguo Yu, Jianlei Liu
 
 1. Clone this repo:
 ```bash
-[git clone https://github.com/cecret3350/DEA-Net.git](https://github.com/wsl666/ZRID-Net.git)
+git clone https://github.com/wsl666/ZRID-Net.git
 cd ZRID-Net/
 ```
 2. Create a new conda environment and install dependencies:
